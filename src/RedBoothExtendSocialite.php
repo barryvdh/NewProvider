@@ -1,8 +1,8 @@
-<?php namespace SocialiteProviders\RedBooth;
+<?php namespace SocialiteProviders\Redbooth;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
-class RedBoothExtendSocialite
+class RedboothExtendSocialite
 {
     /**
      * Execute the provider.

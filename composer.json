@@ -1,6 +1,6 @@
 {
     "name": "socialiteproviders/redbooth",
-    "description": "RedBooth OAuth2 Provider for Laravel Socialite",
+    "description": "Redbooth OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\RedBooth\\": "src/"
+            "SocialiteProviders\\Redbooth\\": "src/"
         }
     }
 }

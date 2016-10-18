@@ -1,4 +1,4 @@
-# RedBooth OAuth2 Provider for Laravel Socialite
+# Redbooth OAuth2 Provider for Laravel Socialite
 
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/SocialiteProviders/RedBooth.svg?style=flat-square)](https://scrutinizer-ci.com/g/SocialiteProviders/RedBooth/?branch=master)
 [![Latest Stable Version](https://img.shields.io/packagist/v/socialiteproviders/redbooth.svg?style=flat-square)](https://packagist.org/packages/socialiteproviders/redbooth)
@@ -8,4 +8,4 @@
 
 ## Documentation
 
-Full documentation for using this provider can be found at [RedBooth Documentation](http://socialiteproviders.github.io/providers/redbooth/)
+Full documentation for using this provider can be found at [Redbooth Documentation](http://socialiteproviders.github.io/providers/redbooth/)

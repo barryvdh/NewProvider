@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\RedBooth;
+namespace SocialiteProviders\Redbooth;
 
 use Laravel\Socialite\Two\ProviderInterface;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
